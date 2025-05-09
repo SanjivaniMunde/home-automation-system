@@ -1,2 +1,1 @@
-This project focuses on detecting botnet activity in mobile network traffic using deep learning techniques. Implemented a Convolutional Neural Network (CNN) to automatically classify whether a given network traffic sample is malicious (botnet-related) or benign.
-The model is trained on a labeled dataset consisting of various features extracted from mobile traffic data. The system includes a user interface (GUI) for real-time detection and demonstrates how deep learning can be applied to cybersecurity tasks such as intrusion detection.
+
